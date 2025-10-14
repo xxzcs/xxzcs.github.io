@@ -26,9 +26,9 @@ author:
   avatar           : "profile_xxz.png"
   name             : "Xiaozheng Xie"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer, University of Science and Technology Beijing"
-  location         : "China"
-  employer         : "University of Science and Technology Beijing"
+  bio              : "University of Science and Technology Beijing, School of Computer and Communication Engineering"
+  location         : "Beijing, China"
+  # employer         : "University of Science and Technology Beijing"
   uri              : # URL
   email            : "xiexiaozheng@ustb.edu.cn" 
 
