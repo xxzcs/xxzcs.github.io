@@ -1,5 +1,6 @@
 ---
-title: "Second Prize in Science and Technology Progress Award: China Association of Medical Education Awarded"
-Rank: 8/15
-year: 2023
+title: "Second Prize in the Graduate Education and Teaching Achievement Award"
+award organization: University of Science and Technology Beijing
+rank: 5/11
+year: 2024
 ---
