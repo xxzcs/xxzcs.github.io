@@ -1,3 +1,5 @@
 ---
-研究生教育教学成果奖二等奖
-北京科技大学, 2023
+title: "Second Prize in Science and Technology Progress Award: China Association of Medical Education Awarded"
+Rank: 8/15
+year: 2023
+---
