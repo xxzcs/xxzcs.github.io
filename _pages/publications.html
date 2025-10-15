@@ -33,6 +33,11 @@ author_profile: true
 {% endif %}
 <!-- 调试：显示 publications 数量 -->
 <!-- <p style="color:red;">DEBUG: Found {{ site.publications | size }} publications.</p> -->
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+<div style="overflow-wrap: break-word; word-wrap: break-word; line-height: 1.6; hyphens: auto;">
 <h2>Journal Articles</h2>
 
 <ol>
