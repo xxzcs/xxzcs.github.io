@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Xiaozheng Xie's Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Xiaozheng Xie"
+description              : "Academic homepage of Xiaozheng Xie, Lecturer at University of Science and Technology Beijing"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://xxzcs.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile_xxz.png"
   name             : "Xiaozheng Xie"
   pronouns         : # example: "she/her"  
-  bio              : "University of Science and Technology Beijing, School of Computer and Communication Engineering"
+  bio              : "Research interests: medical image analysis, causal inference, and breast cancer auxiliary diagnosis"
   location         : "Beijing, China"
-  # employer         : "University of Science and Technology Beijing"
+  employer         : "University of Science and Technology Beijing"
   uri              : # URL
   email            : "xiexiaozheng@ustb.edu.cn" 
 
