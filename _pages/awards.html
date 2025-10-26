@@ -4,3 +4,13 @@ permalink: /awards/
 title: "Awards & Honors"
 author_profile: true
 ---
+
+<ul>
+{% for award in site.awards reversed %}
+  <li>
+    <strong>{{ award.date | date: "%Y" }}:</strong>
+    {{ award.title }}, {{ award.awarder }}
+    {% if award.rank %} (Rank: {{ award.rank }}) {% endif %}
+  </li>
+{% endfor %}
+</ul>
