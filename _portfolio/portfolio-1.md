@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "National Natural Science Foundation of China (NSFC) – Young Scientists Fund"
+excerpt: "Research On The Multi-Modal Breast Cancer Auxiliary Diagnosis Based On The Causal Chain-Of-Thought In-The-Loop"
+time: 2025--2027
 collection: portfolio
+funding amount: ¥300,000
+role: principal investigator
+current stage: ongoing
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
