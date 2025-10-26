@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-XXXXXXXXXXXXXXXXX
 Education
 ======
 * Ph.D in Computer Architecture, Beihang University, 2022
