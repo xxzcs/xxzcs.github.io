@@ -1,15 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Pages for Xiaozheng Xie"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Lecturer from School of Computer and Communication Engineering, University of Science and Technology Beijing. My research interest includes medical image analysis, breast cancer auxiliary diagnosis and causal inference.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I have received my Ph.D degree from Beihang University in 2022, advised by Prof. Jianwei Niu and Prof. Xuefeng Liu. 
+
+You can find my CV here: ../assets/CV_xxz.pdf
+
+Email: xiexiaozheng@ustb.edu.cn
+Github: https://github.com/xxzcs
 
 A data-driven personal website
 ======
