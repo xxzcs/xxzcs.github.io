@@ -26,12 +26,6 @@ Work experience
   * University of Science and Technology Beijing
   * Duties: conduct research in medical image analysis, applicate grants, mentor undergraduate students
   
-Skills
-======
-* Programming: Python (PyTorch), MATLAB
-* Tools: Linux, Git, Docker, LaTeX
-* Languages: English (Fluent), Chinese (Native)
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -56,6 +50,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Skills
+======
+* Programming: Python (PyTorch), MATLAB
+* Tools: Linux, Git, Docker, LaTeX
+* Languages: English (Fluent), Chinese (Native)
+
 Service and leadership
 ======
 * Reviewer for IEEE TSMC-A (2024), Scientific Reports (2024, 2025)
