@@ -19,12 +19,12 @@ Work experience
 ======
 * January 2025 -- present: Lecturer 
   * University of Science and Technology Beijing
-  * Duties includes: conduct research in medical image analysis, applicate grants, mentor undergraduate students
+  * Duties: conduct research in medical image analysis, applicate grants, mentor undergraduate students
 
 
 * September 2022 -- December 2024: Postdoctoral Researcher
   * University of Science and Technology Beijing
-  * Duties included: conduct research in medical image analysis, applicate grants, mentor undergraduate students
+  * Duties: conduct research in medical image analysis, applicate grants, mentor undergraduate students
   
 Skills
 ======
