@@ -11,8 +11,7 @@ I am a Lecturer from School of Computer and Communication Engineering, Universit
 
 I have received my Ph.D degree from Beihang University in 2022, advised by Prof. Jianwei Niu and Prof. Xuefeng Liu. 
 
-You can find my CV here: ../assets/CV_xxz.pdf
-
 Email: xiexiaozheng@ustb.edu.cn
+
 Github: https://github.com/xxzcs
 
