@@ -37,6 +37,12 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Projects
+======
+  <ul>{% for post in site.portfolio reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
@@ -52,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for IEEE TSMC-A (2024), Scientific Reports (2024, 2025)
