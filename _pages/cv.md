@@ -17,29 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2025 -- present: Lecturer 
+  * University of Science and Technology Beijing
+  * Duties includes: conduct research in medical image analysis, applicate grants, mentor undergraduate students
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2022 -- December 2024: Postdoctoral Researcher
+  * University of Science and Technology Beijing
+  * Duties included: conduct research in medical image analysis, applicate grants, mentor undergraduate students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python (PyTorch), MATLAB
+* Tools: Linux, Git, Docker, LaTeX
+* Languages: English (Fluent), Chinese (Native)
 
 Publications
 ======
