@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Lecturer from School of Computer and Communication Engineering, University of Science and Technology Beijing. My research interest includes medical image analysis, breast cancer auxiliary diagnosis and causal inference.
 
-I have received my Ph.D degree from Beihang University in 2022, advised by Prof. Jianwei Niu and Prof. Xuefeng Liu. 
+I have received my Ph.D degree from Beihang University in 2022, advised by Prof. Jianwei Niu (IEEE Fellow) and Prof. Xuefeng Liu. 
 
 Email: xiexiaozheng@ustb.edu.cn
 
